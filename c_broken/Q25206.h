@@ -23,10 +23,9 @@ int Q25206(void) {
 		scanf("%s", pyeongjeom);
 
 		score = gradeToScore(pyeongjeom);
-		printf("%lf\n", score);
 		if (score != -1.0) {
 			hakjeom_sum += (double)hakjeom;
-			sum += hakjeom * score; printf("%lf %lf %lf\n", hakjeom * score, sum, hakjeom_sum);
+			sum += hakjeom * score;
 		}
 	}
 	printf("%lf", sum / hakjeom_sum);

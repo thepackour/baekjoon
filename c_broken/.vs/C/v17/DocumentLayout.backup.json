@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tpo56\\Baekjoon\\C\\",
+  "WorkspaceRootPath": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|C:\\Users\\tpo56\\Baekjoon\\C\\Q25206.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q25206.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|solutionrelative:Q25206.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|C:\\Users\\tpo56\\Baekjoon\\C\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|C:\\Users\\tpo56\\Baekjoon\\c_broken\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Q25206.h",
-              "DocumentMoniker": "C:\\Users\\tpo56\\Baekjoon\\C\\Q25206.h",
+              "DocumentMoniker": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q25206.h",
               "RelativeDocumentMoniker": "Q25206.h",
-              "ToolTip": "C:\\Users\\tpo56\\Baekjoon\\C\\Q25206.h",
-              "RelativeToolTip": "Q25206.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q25206.h*",
+              "RelativeToolTip": "Q25206.h*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-19T01:03:23.049Z",
               "IsPinned": true,
@@ -38,14 +38,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\tpo56\\Baekjoon\\C\\main.c",
+              "DocumentMoniker": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\main.c",
               "RelativeDocumentMoniker": "main.c",
-              "ToolTip": "C:\\Users\\tpo56\\Baekjoon\\C\\main.c",
+              "ToolTip": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\main.c",
               "RelativeToolTip": "main.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-08T13:54:10.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T13:54:10.074Z"
             }
           ]
         }
