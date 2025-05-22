@@ -131,6 +131,7 @@
     <ClCompile Include="Q25206.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Q10798.h" />
     <ClInclude Include="Q3003.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
