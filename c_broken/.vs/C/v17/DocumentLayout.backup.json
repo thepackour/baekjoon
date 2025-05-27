@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q10798.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|solutionrelative:Q10798.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q25206.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|solutionrelative:Q25206.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q11718.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|solutionrelative:Q11718.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,33 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Q25206.h",
-              "DocumentMoniker": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q25206.h",
-              "RelativeDocumentMoniker": "Q25206.h",
-              "ToolTip": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q25206.h",
-              "RelativeToolTip": "Q25206.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-19T01:03:23.049Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Q10798.h",
-              "DocumentMoniker": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q10798.h",
-              "RelativeDocumentMoniker": "Q10798.h",
-              "ToolTip": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q10798.h",
-              "RelativeToolTip": "Q10798.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Title": "Q11718.h",
+              "DocumentMoniker": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q11718.h",
+              "RelativeDocumentMoniker": "Q11718.h",
+              "ToolTip": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q11718.h",
+              "RelativeToolTip": "Q11718.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-22T01:28:21.679Z",
+              "WhenOpened": "2025-05-27T07:36:59.148Z",
               "EditorCaption": ""
             },
             {
@@ -57,9 +39,9 @@
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\main.c",
               "RelativeDocumentMoniker": "main.c",
-              "ToolTip": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\main.c",
-              "RelativeToolTip": "main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\main.c*",
+              "RelativeToolTip": "main.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-08T13:54:10.074Z",
               "EditorCaption": ""

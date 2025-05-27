@@ -29,5 +29,17 @@
     <ClInclude Include="Q10798.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="Q2745.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Q11005.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Q33990.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Q11718.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
