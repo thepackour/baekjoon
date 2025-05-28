@@ -4,15 +4,10 @@ int Q2869(void) {
 	int A, B, V, day = 1;
 
 	scanf("%d %d %d", &A, &B, &V);
-
-	day = V / (A - B) + 1;
-
-	while () {
-		
-		day--;
-	}
-
 	
+	V -= A;
+	day += V / (A - B);
+	if (V % (A - B)) day += 1;
 
 	printf("%d", day);
 	
