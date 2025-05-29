@@ -138,6 +138,7 @@
     <ClInclude Include="Q2869.h" />
     <ClInclude Include="Q3003.h" />
     <ClInclude Include="Q33990.h" />
+    <ClInclude Include="Q5086.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
