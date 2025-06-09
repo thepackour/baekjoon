@@ -1,11 +1,11 @@
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
-#include "Q2581.h"
+#include "Q15894.h"
 
 int main(void) {
 	
-	Q2581();
+	Q15894();
 
 	return 0;
 }

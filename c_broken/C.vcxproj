@@ -131,15 +131,18 @@
     <ClCompile Include="Q25206.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Q1085.h" />
     <ClInclude Include="Q11718.h" />
     <ClInclude Include="Q10798.h" />
     <ClInclude Include="Q11005.h" />
+    <ClInclude Include="Q15894.h" />
     <ClInclude Include="Q1978.h" />
     <ClInclude Include="Q2501.h" />
     <ClInclude Include="Q2581.h" />
     <ClInclude Include="Q2745.h" />
     <ClInclude Include="Q2869.h" />
     <ClInclude Include="Q3003.h" />
+    <ClInclude Include="Q3009.h" />
     <ClInclude Include="Q33990.h" />
     <ClInclude Include="Q5086.h" />
   </ItemGroup>
