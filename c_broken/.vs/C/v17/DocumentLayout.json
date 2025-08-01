@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\",
+  "WorkspaceRootPath": "D:\\Repos\\baekjoon\\c_broken\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q30087.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|solutionrelative:Q30087.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|C:\\Users\\tpo56\\Baekjoon\\c_broken\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+=======
+      "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|D:\\Repos\\baekjoon\\c_broken\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+>>>>>>> 36ecdc78be677d06d02d2d64507695e9cb57be3e
       "RelativeMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -23,6 +27,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "Q30087.h",
               "DocumentMoniker": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q30087.h",
               "RelativeDocumentMoniker": "Q30087.h",
@@ -36,14 +41,20 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+=======
+>>>>>>> 36ecdc78be677d06d02d2d64507695e9cb57be3e
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\main.c",
+              "DocumentMoniker": "D:\\Repos\\baekjoon\\c_broken\\main.c",
               "RelativeDocumentMoniker": "main.c",
-              "ToolTip": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\main.c",
+              "ToolTip": "D:\\Repos\\baekjoon\\c_broken\\main.c",
               "RelativeToolTip": "main.c",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAKAAAAAAAAAA==",
+>>>>>>> 36ecdc78be677d06d02d2d64507695e9cb57be3e
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-10T00:19:47.098Z",
+              "WhenOpened": "2025-07-15T17:12:47.08Z",
               "EditorCaption": ""
             }
           ]
