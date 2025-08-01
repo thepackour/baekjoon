@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q1018.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|solutionrelative:Q1018.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q30087.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|solutionrelative:Q30087.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|C:\\Users\\tpo56\\Baekjoon\\c_broken\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Q1018.h",
-              "DocumentMoniker": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q1018.h",
-              "RelativeDocumentMoniker": "Q1018.h",
-              "ToolTip": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q1018.h",
-              "RelativeToolTip": "Q1018.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Title": "Q30087.h",
+              "DocumentMoniker": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q30087.h",
+              "RelativeDocumentMoniker": "Q30087.h",
+              "ToolTip": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q30087.h",
+              "RelativeToolTip": "Q30087.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-30T11:22:15.99Z",
+              "WhenOpened": "2025-08-01T14:14:43.708Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "main.c",
               "ToolTip": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\main.c",
               "RelativeToolTip": "main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-06-10T00:19:47.098Z",
               "EditorCaption": ""

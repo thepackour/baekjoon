@@ -21,6 +21,9 @@
     <ClCompile Include="Q25206.h">
       <Filter>헤더 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Q4999.h">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Q3003.h">
@@ -72,6 +75,9 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Q1018.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Q30087.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
