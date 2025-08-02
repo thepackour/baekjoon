@@ -1,5 +1,2 @@
 ﻿  main.c
-D:\Repos\baekjoon\c_broken\Q11650.h(6,7): warning C4101: 'pos_ptr' :참조되지 않은 지역 변수입니다.
-  (소스 파일 'main.c'을(를) 컴파일하는 중)
-  
   C.vcxproj -> D:\Repos\baekjoon\c_broken\x64\Debug\C.exe
