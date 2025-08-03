@@ -80,5 +80,14 @@
     <ClInclude Include="Q1934.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="Q13241.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Q1735.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Q2485.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
