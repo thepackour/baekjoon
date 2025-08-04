@@ -77,7 +77,23 @@
     <ClInclude Include="Q1018.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+<<<<<<< HEAD
     <ClInclude Include="Q30087.h">
+=======
+    <ClInclude Include="Q11650.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Q1934.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Q13241.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Q1735.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Q2485.h">
+>>>>>>> 1bcc1b5d4a2a4b930a04e10956ef1921d2e5b814
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
