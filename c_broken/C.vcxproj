@@ -138,6 +138,7 @@
     <ClInclude Include="Q10798.h" />
     <ClInclude Include="Q11005.h" />
     <ClInclude Include="Q13241.h" />
+    <ClInclude Include="Q15740.h" />
     <ClInclude Include="Q15894.h" />
     <ClInclude Include="Q1735.h" />
     <ClInclude Include="Q1934.h" />
