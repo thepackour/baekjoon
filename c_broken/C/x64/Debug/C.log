@@ -1,14 +1,8 @@
 ﻿  main.c
-<<<<<<< HEAD
-<<<<<<< HEAD
-  Q4999.h
-  C.vcxproj -> C:\Users\tpo56\Baekjoon\c_broken\x64\Debug\C.exe
-=======
-D:\Repos\baekjoon\c_broken\Q11650.h(6,7): warning C4101: 'pos_ptr' :참조되지 않은 지역 변수입니다.
+C:\Users\tpo56\Baekjoon\c_broken\Q20492.h(7,15): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   (소스 파일 'main.c'을(를) 컴파일하는 중)
   
-=======
-D:\Repos\baekjoon\c_broken\Q2485.h(41,1): warning C4716: 'Q2485': 값을 반환해야 합니다.
->>>>>>> 1bcc1b5d4a2a4b930a04e10956ef1921d2e5b814
-  C.vcxproj -> D:\Repos\baekjoon\c_broken\x64\Debug\C.exe
->>>>>>> 36ecdc78be677d06d02d2d64507695e9cb57be3e
+C:\Users\tpo56\Baekjoon\c_broken\Q20492.h(8,15): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+  C.vcxproj -> C:\Users\tpo56\Baekjoon\c_broken\x64\Debug\C.exe

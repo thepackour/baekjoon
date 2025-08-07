@@ -144,6 +144,7 @@
     <ClInclude Include="Q1934.h" />
     <ClInclude Include="Q19532.h" />
     <ClInclude Include="Q1978.h" />
+    <ClInclude Include="Q20492.h" />
     <ClInclude Include="Q2485.h" />
     <ClInclude Include="Q2501.h" />
     <ClInclude Include="Q2581.h" />
@@ -153,6 +154,7 @@
     <ClInclude Include="Q30087.h" />
     <ClInclude Include="Q3009.h" />
     <ClInclude Include="Q33990.h" />
+    <ClInclude Include="Q4134.h" />
     <ClInclude Include="Q5086.h" />
     <ClInclude Include="Q9063.h" />
   </ItemGroup>
