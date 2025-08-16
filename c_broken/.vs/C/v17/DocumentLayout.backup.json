@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Repos\\baekjoon\\c_broken\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|D:\\Repos\\baekjoon\\c_broken\\Q15740.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|solutionrelative:Q15740.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|D:\\Repos\\baekjoon\\c_broken\\Q10874.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|solutionrelative:Q10874.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|D:\\Repos\\baekjoon\\c_broken\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|D:\\Repos\\baekjoon\\c_broken\\Q11650.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|solutionrelative:Q11650.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|D:\\Repos\\baekjoon\\c_broken\\Q15740.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|solutionrelative:Q15740.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\Repos\\baekjoon\\c_broken\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "D:\\Repos\\baekjoon\\c_broken\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-06T11:13:04.909Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -40,29 +58,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.c",
-              "DocumentMoniker": "D:\\Repos\\baekjoon\\c_broken\\main.c",
-              "RelativeDocumentMoniker": "main.c",
-              "ToolTip": "D:\\Repos\\baekjoon\\c_broken\\main.c",
-              "RelativeToolTip": "main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-06T11:13:04.909Z",
+              "DocumentIndex": 3,
+              "Title": "Q15740.h",
+              "DocumentMoniker": "D:\\Repos\\baekjoon\\c_broken\\Q15740.h",
+              "RelativeDocumentMoniker": "Q15740.h",
+              "ToolTip": "D:\\Repos\\baekjoon\\c_broken\\Q15740.h",
+              "RelativeToolTip": "Q15740.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T11:13:09.647Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Q15740.h",
-              "DocumentMoniker": "D:\\Repos\\baekjoon\\c_broken\\Q15740.h",
-              "RelativeDocumentMoniker": "Q15740.h",
-              "ToolTip": "D:\\Repos\\baekjoon\\c_broken\\Q15740.h",
-              "RelativeToolTip": "Q15740.h",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Title": "Q10874.h",
+              "DocumentMoniker": "D:\\Repos\\baekjoon\\c_broken\\Q10874.h",
+              "RelativeDocumentMoniker": "Q10874.h",
+              "ToolTip": "D:\\Repos\\baekjoon\\c_broken\\Q10874.h",
+              "RelativeToolTip": "Q10874.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-06T11:13:09.647Z",
+              "WhenOpened": "2025-08-16T13:27:12.627Z",
               "EditorCaption": ""
             }
           ]
