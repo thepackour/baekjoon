@@ -1,4 +1,5 @@
 ﻿  main.c
+<<<<<<< HEAD
 C:\Users\tpo56\Baekjoon\c_broken\Q20492.h(7,15): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   (소스 파일 'main.c'을(를) 컴파일하는 중)
   
@@ -6,3 +7,6 @@ C:\Users\tpo56\Baekjoon\c_broken\Q20492.h(8,15): warning C4244: '초기화 중':
   (소스 파일 'main.c'을(를) 컴파일하는 중)
   
   C.vcxproj -> C:\Users\tpo56\Baekjoon\c_broken\x64\Debug\C.exe
+=======
+  C.vcxproj -> D:\Repos\baekjoon\c_broken\x64\Debug\C.exe
+>>>>>>> 46b5433eebe25cf4180abf4a3a41072394f2ef55

@@ -6,18 +6,22 @@
     <ClCompile Include="Q4999.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Q34129.h" />
     <ClInclude Include="Q1018.h" />
     <ClInclude Include="Q1085.h" />
+    <ClInclude Include="Q10874.h" />
     <ClInclude Include="Q11650.h" />
     <ClInclude Include="Q11718.h" />
     <ClInclude Include="Q10798.h" />
     <ClInclude Include="Q11005.h" />
     <ClInclude Include="Q13241.h" />
+    <ClInclude Include="Q15740.h" />
     <ClInclude Include="Q15894.h" />
     <ClInclude Include="Q1735.h" />
     <ClInclude Include="Q1934.h" />
     <ClInclude Include="Q19532.h" />
     <ClInclude Include="Q1978.h" />
+    <ClInclude Include="Q20492.h" />
     <ClInclude Include="Q2485.h" />
     <ClInclude Include="Q2501.h" />
     <ClInclude Include="Q2581.h" />
@@ -27,9 +31,9 @@
     <ClInclude Include="Q30087.h" />
     <ClInclude Include="Q3009.h" />
     <ClInclude Include="Q33990.h" />
+    <ClInclude Include="Q4134.h" />
     <ClInclude Include="Q5086.h" />
     <ClInclude Include="Q9063.h" />
-    <ClInclude Include="Q4134.h" />
-    <ClInclude Include="Q20492.h" />
+    <ClInclude Include="Q1271.h" />
   </ItemGroup>
 </Project>
