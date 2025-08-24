@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -129,8 +129,11 @@
   <ItemGroup>
     <ClCompile Include="main.c" />
     <ClCompile Include="Q25206.h" />
+    <ClCompile Include="Q4999.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Q1271.h" />
+    <ClInclude Include="Q34129.h" />
     <ClInclude Include="Q1018.h" />
     <ClInclude Include="Q1085.h" />
     <ClInclude Include="Q10874.h" />
@@ -146,14 +149,17 @@
     <ClInclude Include="Q1934.h" />
     <ClInclude Include="Q19532.h" />
     <ClInclude Include="Q1978.h" />
+    <ClInclude Include="Q20492.h" />
     <ClInclude Include="Q2485.h" />
     <ClInclude Include="Q2501.h" />
     <ClInclude Include="Q2581.h" />
     <ClInclude Include="Q2745.h" />
     <ClInclude Include="Q2869.h" />
     <ClInclude Include="Q3003.h" />
+    <ClInclude Include="Q30087.h" />
     <ClInclude Include="Q3009.h" />
     <ClInclude Include="Q33990.h" />
+    <ClInclude Include="Q4134.h" />
     <ClInclude Include="Q5086.h" />
     <ClInclude Include="Q9063.h" />
   </ItemGroup>

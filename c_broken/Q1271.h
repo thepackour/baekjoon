@@ -1,14 +1,29 @@
 #include <stdio.h>
 #include <string.h>
 
+<<<<<<< HEAD
 int is_m_larger(char* n, char* m, int m_length) {
 	for (int i = 0; i < m_length; i++) {
 		if (n[i] < m[i]) return 1;
 		if (n[i] > m[i]) return 0;
+=======
+
+char func(char * m, char * n) {
+	char div[1001];
+	strcpy(div, n);
+	for (int a = 1; a <= 9; a++) {
+		for (int i = 0; i < strlen(n); i++) {
+			if (m[i] < n[i]) {
+				if (a == 1) return 0;
+				else ()
+			}
+		}
+>>>>>>> d193940fbf35fbfe6e2360a6c6e9eb10bff7802d
 	}
 	return 0;
 }
 
+<<<<<<< HEAD
 void calc(char* n, char* m, int m_length) {
 	for (int i = m_length - 1; i >= 0; i--) {
 		n[i] -= m[i];
@@ -72,5 +87,22 @@ int Q1271(void) {
 	if (i == n_length) printf("0");
 	else for (; i < n_length; i++) printf("%d", n[i]);
 
+=======
+int Q1271(void) {
+	char m[1001];
+	char n[1001];
+	char r[1001];
+	scanf("%s %s", m, n);
+
+	if (strlen(m) < strlen(n)) printf("0\n%s", m);
+	else {
+		int i4r = 0;
+		while (strlen(m) - i4r >= strlen(n)) {
+			r[i4r] = func(m + i4r, n);
+			i4r++;
+		}
+	}
+	
+>>>>>>> d193940fbf35fbfe6e2360a6c6e9eb10bff7802d
 	return 0;
 }

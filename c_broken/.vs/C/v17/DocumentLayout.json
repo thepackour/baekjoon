@@ -1,14 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Repos\\baekjoon\\c_broken\\",
+  "WorkspaceRootPath": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|D:\\Repos\\baekjoon\\c_broken\\Q1271.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|solutionrelative:Q1271.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+=======
+      "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q20492.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|solutionrelative:Q20492.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+>>>>>>> d193940fbf35fbfe6e2360a6c6e9eb10bff7802d
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|D:\\Repos\\baekjoon\\c_broken\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|C:\\Users\\tpo56\\Baekjoon\\c_broken\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+<<<<<<< HEAD
     },
     {
       "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|D:\\Repos\\baekjoon\\c_broken\\Q15740.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -17,6 +23,8 @@
     {
       "AbsoluteMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|D:\\Repos\\baekjoon\\c_broken\\Q11650.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B971F436-5969-4252-ADA9-344E24E4F34C}|C.vcxproj|solutionrelative:Q11650.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+=======
+>>>>>>> d193940fbf35fbfe6e2360a6c6e9eb10bff7802d
     }
   ],
   "DocumentGroupContainers": [
@@ -26,16 +34,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Q20492.h",
+              "DocumentMoniker": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q20492.h",
+              "RelativeDocumentMoniker": "Q20492.h",
+              "ToolTip": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\Q20492.h",
+              "RelativeToolTip": "Q20492.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-07T14:38:32.347Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "main.c",
-              "DocumentMoniker": "D:\\Repos\\baekjoon\\c_broken\\main.c",
+              "DocumentMoniker": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\main.c",
               "RelativeDocumentMoniker": "main.c",
-              "ToolTip": "D:\\Repos\\baekjoon\\c_broken\\main.c",
+              "ToolTip": "C:\\Users\\tpo56\\Baekjoon\\c_broken\\main.c",
               "RelativeToolTip": "main.c",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-06T11:13:04.909Z",
@@ -81,6 +103,11 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-23T15:51:09.141Z",
               "EditorCaption": ""
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-10T00:19:47.098Z"
+>>>>>>> d193940fbf35fbfe6e2360a6c6e9eb10bff7802d
             }
           ]
         }
